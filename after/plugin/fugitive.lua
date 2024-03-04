@@ -1,0 +1,3 @@
+--add this or something similar once you figure out how tf to use git
+--
+--vim.keymap.set("n", "<leader>gs, vim.cmd.Git);
